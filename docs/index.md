@@ -4,13 +4,13 @@
 
 楽天グループ株式会社　ラクマ開発課　ソフトウェアエンジニア
 
-X: https://x.com/ATOM03151
+[X](https://x.com/ATOM03151)
 
-Facebook: https://www.facebook.com/shogo.kinjo.9
+[Facebook](https://www.facebook.com/shogo.kinjo.9)
 
-Linkedin: https://www.linkedin.com/in/shogo-kinjo-599383217/
+[Linkedin](https://www.linkedin.com/in/shogo-kinjo-599383217/)
 
-Speaker Deck: https://speakerdeck.com/shogokinjo
+[Speaker Deck](https://speakerdeck.com/shogokinjo)
 
 # セッションタイトル
 
